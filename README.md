@@ -27,7 +27,7 @@
 
 > 纯 HTML，无需安装任何环境，打开即用。
 
-📖 **完整使用手册**：[芸窗朔梅 · 使用手册（大白话版）](https://adikate-Alves.github.io/yunchuang-shuomei/%E8%8A%B8%E7%AA%97%E6%9C%94%E6%A2%85%20%C2%B7%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.html)
+📖 **完整使用手册**：[芸窗朔梅 · 使用手册（大白话版）](https://adikate-Alves.github.io/yunchuang-shuomei/manual.html)
 
 ### 本地运行
 
