@@ -3,7 +3,7 @@
 
 > 一个纯前端、开箱即用的 AI 学习工作站 —— 把学习、思考、记录、复习全部揉在一起，在一个页面里完成从“我不会”到“我懂了”的全过程。
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 ## ✨ 特性
