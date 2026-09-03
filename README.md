@@ -97,7 +97,7 @@ cd yunchuang-shuomei
 
 ## 📄 许可证
 
-[MIT](LICENSE)
+许可证：[CC BY-NC 4.0（署名-非商业性使用）](LICENSE)
 
 ## 📬 联系方式
 
