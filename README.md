@@ -97,7 +97,11 @@ cd yunchuang-shuomei
 
 ## 📄 许可证
 
-许可证：[CC BY-NC 4.0（署名-非商业性使用）](LICENSE)
+本项目基于 [xu105/ai-learning-assistant](https://github.com/xu105/ai-learning-assistant) 修改而来。
+
+原项目采用 MIT 许可证，本项目整体继续采用 MIT 许可证，并保留原作者的版权声明。本项目新增内容的版权归 Alves 所有。
+
+许可证全文：[MIT License](LICENSE)
 
 ## 📬 联系方式
 
